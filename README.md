@@ -2,5 +2,5 @@
 Case study used in the project SEC-OREA
 
 Grid topology model used for the case study
-![image](https://user-images.githubusercontent.com/41905628/214804003-345bd3ed-3b6e-4e72-a749-a495163e04b2.png)
+![Topology](https://user-images.githubusercontent.com/41905628/216294254-16177149-0f31-41cb-bd6c-cf789ff08954.png)
 
